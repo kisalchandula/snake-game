@@ -1,46 +1,95 @@
-# Snake Game Android
-Snake game for Android made with Jetpack Compose. 
-Blog Post: https://medium.com/@thekisal/classic-snake-game-with-jetpack-compose-2b78f4892ca
+Privacy Policy
 
-<img src="https://raw.githubusercontent.com/kisal/snake-game-android/main/screenshots/menu.png" width="248px"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/kisal/snake-game-android/main/screenshots/ingame.png" width="248px"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/kisal/snake-game-android/main/screenshots/endgame.png" width="248px"/> &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/kisal/snake-game-android/main/screenshots/highscore.png" width="248px"/> &nbsp;&nbsp;
+This privacy policy applies to the snake app (hereby referred to as "Application") for mobile devices that was created by Sangeeth Amirthanathan (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-## How to build the app
-1. Clone the repository.
-2. Goto Android Studio and open the project.
-The project should compile properly no additional steps needed
+Information Collection and Use
 
-## Author
-Maintained by [Mukesh Solanki](https://www.github.com/kisal)
+The Application does not collect any information when you download and use it.
 
-## Contribution
-[![GitHub contributors](https://img.shields.io/github/contributors/kisal/snake-game-android.svg)](https://github.com/kisal/snake-game-android/graphs/contributors)
+Third Party Access
 
-* Bug reports and pull requests are welcome.
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-## License
-```
-MIT License
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-Copyright (c) 2018 Mukesh Solanki
+Google Play Services The Service Provider may disclose User Provided and Automatically Collected Information:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+as required by law, such as to comply with a subpoena, or similar legal process; when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement. Opt-Out Rights
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+Data Retention Policy
+
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at zansangeeth17@gmail.com and they will respond in a reasonable time.
+
+Children
+
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (zansangeeth17@gmail.com) so that they will be able to take the necessary actions.
+
+Security
+
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+
+Changes
+
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+This privacy policy is effective as of 2024-05-15
+
+Your Consent
+
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
+Contact Us
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at zansangeeth17@gmail.com.
+
+Privacy Policy
+
+This privacy policy applies to the snake app (hereby referred to as "Application") for mobile devices that was created by Sangeeth Amirthanathan (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+
+Information Collection and Use
+
+The Application does not collect any information when you download and use it.
+
+Third Party Access
+
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+
+Google Play Services The Service Provider may disclose User Provided and Automatically Collected Information:
+
+as required by law, such as to comply with a subpoena, or similar legal process; when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement. Opt-Out Rights
+
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+Data Retention Policy
+
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at zansangeeth17@gmail.com and they will respond in a reasonable time.
+
+Children
+
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (zansangeeth17@gmail.com) so that they will be able to take the necessary actions.
+
+Security
+
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+
+Changes
+
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+This privacy policy is effective as of 2024-07-05
+
+Your Consent
+
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
+Contact Us
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at zansangeeth17@gmail.com.
